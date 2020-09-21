@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/go-modules-by-example/submodules/b"
+	"github.com/weiglx/submodules/b"
 	"fmt"
 )
 
